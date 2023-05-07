@@ -4,7 +4,13 @@
  <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
 </p>
 
-### Hi there 👋
+**Acerca de mí**
+
+- 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
+
+- ❤️ Me encanta crear experimentos divertidos
+
+- 💬 Pregúntame sobre cualquier duda [Aqui👉](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
 
 <!--
 **ReinierTutoriales/ReinierTutoriales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
