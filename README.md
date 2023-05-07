@@ -10,7 +10,7 @@
 
 - ❤️ Me encanta crear experimentos divertidos
 
-- 💬 Pregúntame sobre cualquier duda [Aqui👉](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
+- 💬 Pregúntame sobre cualquier duda [👉Aqui](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
 
 <!--
 **ReinierTutoriales/ReinierTutoriales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
