@@ -4,6 +4,9 @@
  <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
 </p>
 
+## 🌐 Redes Sociales:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/reiniertutoriales/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ReinierTutoriales) 
+
 **Acerca de mí**
 
 - 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
