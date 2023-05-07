@@ -12,8 +12,12 @@
 
 - 💬 Pregúntame sobre cualquier duda [👉Aqui](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
 
+[![paypal.com/paypalme/ReinierTutoriales](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales) - ¡Cómprame un ~~coffee~~ tea. :tea:
+
 <!--
 **ReinierTutoriales/ReinierTutoriales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
