@@ -12,12 +12,13 @@
 
 - 💬 Pregúntame sobre cualquier duda [👉Aqui](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
 
-[![paypal.com/paypalme/ReinierTutoriales](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales) - ¡Cómprame un :tea:
+- [![paypal.com/paypalme/ReinierTutoriales](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales) - ¡Cómprame un :tea:
+
 
 <!--
 **ReinierTutoriales/ReinierTutoriales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+Gracias! :heart:
 
 Here are some ideas to get you started:
 
