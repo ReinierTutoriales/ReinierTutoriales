@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.reiniertutoriales.com"><img width="50%" alt="Hola, Soy Reinier. ReinierTutoriales!" src="./imagenes/reiniertutoriales.png" /></a></p>
+<p align="center"><a href="https://www.reiniertutoriales.com"><img width="50%" alt="Hola, Soy Reinier. ReinierTutoriales!" src="./imagenes/reiniertutoriales.webp" /></a></p>
 
  <h2 align="center">Estadísticas de GitHub</h2>
  <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
