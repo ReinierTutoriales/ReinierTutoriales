@@ -6,16 +6,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=synthwave)](https://github.com/ReinierTutoriales/github-readme-stats)
 
-#### Top Repositories
-
-
-<a href="https://github.com/ReinierTutoriales/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ReinierTutoriales&repo=github-readme-stats&theme=buefy" />
-</a>
-
-<br />
-<br />
-
 **Acerca de mí**
 
 - 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
