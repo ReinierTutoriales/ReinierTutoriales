@@ -4,6 +4,8 @@
  <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 **Acerca de mí**
 
 - 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
