@@ -1,4 +1,5 @@
-### Soy **ReinierTutoriales**, un apasionado de Apple. 😎
+### Soy **ReinierTutoriales**, un apasionado de macOS. 😎
+<a href="https://www.reiniertutoriales.com/"><img src="[url de la imagen](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png)" alt="Foro ReinierTutoriales"></a>
 
 <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px">
 
