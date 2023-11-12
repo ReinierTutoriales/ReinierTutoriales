@@ -1,6 +1,6 @@
 ### Soy **ReinierTutoriales**, un apasionado de macOS. 😎
-<p align="center">
 
+<p align="center">
 <a href="https://www.reiniertutoriales.com/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px" alt="Foro"></a>
 </p>
 
