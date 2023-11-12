@@ -1,6 +1,7 @@
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&show_icons=true&bg_color=181818)<a href="https://www.reiniertutoriales.com/Foro/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="20%">
-</p>    
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&show_icons=true&bg_color=181818)<a href="https://www.reiniertutoriales.com/Foro/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="1000px">
+</p>  
 ![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReinierTutoriales&theme=tokyonight-duo)](https://git.io/streak-stats)
 
  <h2 align="center">Estadísticas de GitHub</h2>
