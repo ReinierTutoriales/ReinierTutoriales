@@ -1,5 +1,8 @@
 ### Soy **ReinierTutoriales**, un apasionado de macOS. 😎
+<p align="center">
+
 <a href="https://www.reiniertutoriales.com/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px" alt="Foro"></a>
+</p>
 
 <h2 align="center">Estadísticas de GitHub</h2>
 <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
