@@ -4,9 +4,7 @@
 <a href="https://www.reiniertutoriales.com/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px" alt="Foro"></a>
 </p>
 
-<h2 align="center">Estadísticas de GitHub</h2>
-<p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
-</p>
+### Estadísticas.
 
 ![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReinierTutoriales&theme=tokyonight-duo)](https://git.io/streak-stats)
