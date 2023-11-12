@@ -1,6 +1,6 @@
 <p align="center">
     
-<img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="1000px">
+<img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px">
 
 ![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReinierTutoriales&theme=tokyonight-duo)](https://git.io/streak-stats)
 </p>
