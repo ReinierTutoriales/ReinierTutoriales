@@ -11,7 +11,9 @@
  <p align="center">¡Obtenga estadísticas de GitHub generadas dinámicamente!</p>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=synthwave)](https://github.com/ReinierTutoriales/github-readme-stats)
+![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReinierTutoriales&theme=tokyonight-duo)](https://git.io/streak-stats)
+</p>
 
 **Acerca de mí**
 
