@@ -29,4 +29,6 @@
 
 - [![paypal.com/paypalme/ReinierTutoriales](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales) - ¡Cómprame un :tea:
 
+- [![](https://img.shields.io/badge/PayPal-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)
+
  Gracias! :heart:
