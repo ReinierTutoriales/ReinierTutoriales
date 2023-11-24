@@ -1,6 +1,16 @@
 ### Soy **ReinierTutoriales**, un apasionado de macOS. 😎
 <a href="https://www.reiniertutoriales.com/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo.png" width="150px" alt="Foro"></a>
 
+## 🌐 Redes Sociales:
+
+[![](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)](https://youtube.com/c/ReinierTutoriales)
+[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/ReinierTutoriales)
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ReinierTutorial)
+[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/groups/reiniertutoriales/)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/reiniertutoriales/)
+
+
+<hr>
 
 ### Estadísticas.
 
@@ -19,15 +29,5 @@
 
 - [![paypal.com/paypalme/ReinierTutoriales](https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/paypal.svg)](https://www.paypal.com/paypalme/ReinierTutoriales) - ¡Cómprame un :tea:
 
-## 🌐 Redes Sociales:
-
-[![](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)](https://youtube.com/c/ReinierTutoriales)
-[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc)](https://t.me/ReinierTutoriales)
-[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ReinierTutorial)
-[![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/groups/reiniertutoriales/)
-[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/reiniertutoriales/)
-
-
-<hr>
 
 Gracias! :heart:
