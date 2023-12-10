@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=00aced)](https://twitter.com/ReinierTutorial)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/groups/reiniertutoriales/)
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/reiniertutoriales/)
+[![](https://img.shields.io/badge/-Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.gg/pQcCDBMn)
 
 
 <hr>
