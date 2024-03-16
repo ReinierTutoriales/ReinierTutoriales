@@ -1,7 +1,7 @@
-### Soy **ReinierTutoriales**, un apasionado de macOS. 😎
+# Soy **ReinierTutoriales**, un apasionado de macOS. 😎
 <a href="https://www.reiniertutoriales.com/"><img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo%20RT.png" width="150px" alt="Foro"></a>
 
-## 🔗 LINKS ReinierTutoriales:
+# 🔗 LINKS ReinierTutoriales:
 
 [![](https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=telegram&logoColor=white&color=FF0000)](https://youtube.com/c/ReinierTutoriales)
 [![](https://img.shields.io/badge/PayPal-informational?style=for-the-badge&logo=paypal&logoColor=white&color=003087)](https://www.paypal.com/paypalme/ReinierTutoriales)
@@ -19,7 +19,7 @@
 
 <hr>
 
-### Estadísticas.
+# Estadísticas.
 
 ![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)
 
