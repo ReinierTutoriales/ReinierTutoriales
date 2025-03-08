@@ -46,6 +46,7 @@ Aquí podrás ver una visualización de mis contribuciones en GitHub.
 ![Repositorios](https://img.shields.io/badge/Repositorios-${reposCount}-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Contribuciones](https://img.shields.io/badge/Contribuciones-${contributionsCount}-blue?style=for-the-badge&logo=github&logoColor=white)
 
+
 ---
 
 ## 👋 **Acerca de mí**
