@@ -26,6 +26,8 @@ Este proyecto colaborativo tiene como objetivo **impulsar el trabajo en comunida
 </p>
 
 
+
+
 # 📊 Estadísticas
 
 ![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F&hide_title=true)
