@@ -29,6 +29,13 @@ Un espacio donde la pasión por la tecnología se convierte en acción. Aquí en
 [![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=FALSO&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
 
+# 📊 Estadísticas
+
+![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F&hide_title=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 **Acerca de mí**
 
 - 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
