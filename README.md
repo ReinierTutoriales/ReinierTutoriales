@@ -1,10 +1,10 @@
 # **¡Bienvenido a ReinierTutoriales!**
-██████╗ ███████╗██╗███╗   ██╗██╗███████╗██████╗     █████████╗██╗   ██╗████████╗ ██████╗ ██╗   ██╗██╗     
-██╔══██╗██╔════╝██║████╗  ██║██║██╔════╝██╔══██╗    ╚══██╔════╝██║   ██║╚══██╔══╝██╔═══██╗██║   ██║██║     
-██████╔╝█████╗  ██║██╔██╗ ██║██║█████╗  ██████╔╝       ██║     ██║   ██║   ██║   ██║   ██║██║   ██║██║     
-██╔═══╝ ██╔══╝  ██║██║╚██╗██║██║██╔══╝  ██╔══██╗       ██║     ██║   ██║   ██║   ██║   ██║██║   ██║██║     
-██║     ███████╗██║██║ ╚████║██║███████╗██║  ██║       ██║     ╚██████╔╝   ██║   ╚██████╔╝╚██████╔╝███████╗
-╚═╝     ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝       ╚═╝      ╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
+
+RRRR    EEEEE  III  N   N  III  EEEEE  RRRR       TTTTT  U   U  TTTTT  OOO  RRRR    III  AAAAA  L      EEEEE  SSSSS
+R   R   E       I   NN  N   I   E      R   R       T     U   U    T   O   O R   R   I   A   A  L      E     S
+RRRR    EEEE    I   N N N   I   EEEE   RRRR        T     U   U    T   O   O RRRR    I   AAAAA  L      EEEE   SSS
+R  R    E       I   N  NN   I   E      R  R        T     U   U    T   O   O R  R    I   A   A  L      E         S
+R   R   EEEEE  III  N   N  III  EEEEE  R   R       T      UUU     T    OOO  R   R  III  A   A  LLLLL  EEEEE  SSSSS
 
 
 Un espacio donde la pasión por la tecnología se convierte en acción. Aquí encontrarás una variedad de repositorios dedicados a compartir conocimientos sobre sistemas operativos, aplicaciones, Hackintosh, Windows, macOS, y mucho más. Este es un proyecto colaborativo que busca impulsar el trabajo en comunidad, proporcionando soluciones, tutoriales y recursos valiosos para todos los entusiastas de la tecnología.
