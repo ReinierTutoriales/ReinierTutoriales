@@ -28,15 +28,13 @@ Un espacio donde la pasión por la tecnología se convierte en acción. Aquí en
 [![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-**Acerca de mí**
+## 👋 **Acerca de mí**
 
-- 💼 Trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
+- 💼 Actualmente trabajo en la Comunidad [ReinierTutoriales](https://www.reiniertutoriales.com/)
+- ❤️ Me apasiona crear experimentos divertidos e innovadores
+- 💬 Si tienes alguna duda o pregunta, ¡no dudes en [👉 preguntar aquí](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)!
 
-- ❤️ Me encanta crear experimentos divertidos
-
-- 💬 Pregúntame sobre cualquier duda [👉Aqui](https://github.com/ReinierTutoriales/ReinierTutoriales/issues)
-
- Gracias! :heart:
+¡Gracias por tu apoyo! 💛
  
  
 
