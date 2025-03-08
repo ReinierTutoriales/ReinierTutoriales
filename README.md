@@ -35,26 +35,33 @@ Aquí podrás ver una visualización de mis contribuciones en GitHub.
 
 ### **Resumen de GitHub**
 
-![ReinierTutoriales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F&hide_title=true&count_private=true&hide=prs)
+![ReinierTutoriales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=2F2F2F&title_color=FFB800&text_color=FFFFFF&icon_color=FFB800&hide_title=true&count_private=true&hide=prs)
 
 ### **Mi Racha de Contribuciones**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=radical&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### **Repositorios y Contribuciones**
 
-![Repositorios](https://img.shields.io/badge/Repositorios-40-brightgreen?style=for-the-badge&logo=github)
-![Contribuciones](https://img.shields.io/badge/Contribuciones-150-blue?style=for-the-badge&logo=github)
+![Repositorios](https://img.shields.io/badge/Repositorios-40-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Contribuciones](https://img.shields.io/badge/Contribuciones-150-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 #### **Top Lenguajes de Programación**
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&bg_color=2F2F2F&title_color=FFB800&text_color=FFFFFF&icon_color=FFB800)
 
 ---
 
-Con estos gráficos podrás conocer de un vistazo mis estadísticas de contribución y los lenguajes de programación más utilizados en mis proyectos.
+### **Paleta de Colores Usada:**
+
+- **Fondo**: `#2F2F2F` (Gris Oscuro)
+- **Título**: `#FFB800` (Amarillo Brillante)
+- **Texto**: `#FFFFFF` (Blanco)
+- **Iconos**: `#FFB800` (Amarillo Brillante)
+- **Gráfico de Racha de Contribución**: Usando el tema **radical**, con colores brillantes y contrastantes que mejoran la visibilidad.
+- **Badges**: Usando colores brillantes como `#00C851` (Verde Claro) para los repositorios y `#008CFF` (Azul Claro) para las contribuciones.
 
 ---
 
