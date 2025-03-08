@@ -31,9 +31,30 @@ Este proyecto colaborativo tiene como objetivo **impulsar el trabajo en comunida
 
 ## 📊 **Estadísticas**
 
-![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F&hide_title=true)
+Aquí podrás ver una visualización de mis contribuciones en GitHub. 
+
+### **Resumen de GitHub**
+
+![ReinierTutoriales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F&hide_title=true&count_private=true&hide=prs)
+
+### **Mi Racha de Contribuciones**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### **Repositorios y Contribuciones**
+
+![Repositorios](https://img.shields.io/badge/Repositorios-40-brightgreen?style=for-the-badge&logo=github)
+![Contribuciones](https://img.shields.io/badge/Contribuciones-150-blue?style=for-the-badge&logo=github)
+
+---
+
+#### **Top Lenguajes de Programación**
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&bg_color=181818&title_color=F0DB4F&text_color=ffffff&icon_color=F0DB4F)
+
+---
+
+Con estos gráficos podrás conocer de un vistazo mis estadísticas de contribución y los lenguajes de programación más utilizados en mis proyectos.
 
 ---
 
