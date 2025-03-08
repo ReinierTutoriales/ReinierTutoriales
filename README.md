@@ -20,14 +20,6 @@ Un espacio donde la pasión por la tecnología se convierte en acción. Aquí en
 [![Cómprame Café](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reiniertutoriales) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ReinierTutoriales) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/ReinierTutoriales)</a>
 </p>
 
-<hr>
-
-# Estadísticas.
-
-![ReinierTutoriales's github stats](https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&icons=true&bg_color=181818)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=FALSO&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
 
 # 📊 Estadísticas
 
