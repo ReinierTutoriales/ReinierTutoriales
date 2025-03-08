@@ -43,9 +43,8 @@ Aquí podrás ver una visualización de mis contribuciones en GitHub.
 
 ### **Repositorios y Contribuciones**
 
-![Repositorios](https://img.shields.io/badge/Repositorios-${reposCount}-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Contribuciones](https://img.shields.io/badge/Contribuciones-${contributionsCount}-blue?style=for-the-badge&logo=github&logoColor=white)
-
+![Repositorios](https://img.shields.io/badge/Repositorios-![](https://api.github.com/users/ReinierTutoriales/repos?per_page=100)|count-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReinierTutoriales&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
