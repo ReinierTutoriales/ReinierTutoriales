@@ -43,14 +43,8 @@ Aquí podrás ver una visualización de mis contribuciones en GitHub.
 
 ### **Repositorios y Contribuciones**
 
-![Repositorios](https://img.shields.io/badge/Repositorios-40-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Contribuciones](https://img.shields.io/badge/Contribuciones-150-blue?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-#### **Top Lenguajes de Programación**
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&bg_color=2F2F2F&title_color=FFB800&text_color=FFFFFF&icon_color=FFB800)
+![Repositorios](https://img.shields.io/badge/Repositorios-${reposCount}-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Contribuciones](https://img.shields.io/badge/Contribuciones-${contributionsCount}-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
