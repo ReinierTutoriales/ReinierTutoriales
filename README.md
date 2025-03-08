@@ -54,17 +54,6 @@ Aquí podrás ver una visualización de mis contribuciones en GitHub.
 
 ---
 
-### **Paleta de Colores Usada:**
-
-- **Fondo**: `#2F2F2F` (Gris Oscuro)
-- **Título**: `#FFB800` (Amarillo Brillante)
-- **Texto**: `#FFFFFF` (Blanco)
-- **Iconos**: `#FFB800` (Amarillo Brillante)
-- **Gráfico de Racha de Contribución**: Usando el tema **radical**, con colores brillantes y contrastantes que mejoran la visibilidad.
-- **Badges**: Usando colores brillantes como `#00C851` (Verde Claro) para los repositorios y `#008CFF` (Azul Claro) para las contribuciones.
-
----
-
 ## 👋 **Acerca de mí**
 
 ¡Hola! Soy **Reinier** y estoy obsesionado con la tecnología, desde sistemas operativos hasta la creación de Hackintosh. Mi objetivo es ayudar a la comunidad a través de tutoriales prácticos y colaborativos.
