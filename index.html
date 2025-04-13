@@ -1,1 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReinierTutoriales | Tecnología y Comunidad</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --bg-dark: #121212;
+            --card-dark: #1E1E1E;
+            --text-light: #F5F5F5;
+            --accent-yellow: #FFB800;
+            --accent-blue: #0088CC;
+            --accent-red: #E4405F;
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background-color: var(--bg-dark);
+            color: var(--text-light);
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        header {
+            text-align: center;
+            padding: 3rem 0;
+            border-bottom: 1px solid #333;
+        }
+        .logo {
+            width: 150px;
+            border-radius: 50%;
+            border: 3px solid var(--accent-yellow);
+        }
+        h1 {
+            color: var(--accent-yellow);
+            margin: 1rem 0 0.5rem;
+        }
+        .tagline {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        .section {
+            background: var(--card-dark);
+            padding: 2rem;
+            border-radius: 8px;
+            margin: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .social-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+        .social-btn {
+            display: flex;
+            align-items: center;
+            background: #2A2A2A;
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 50px;
+            text-decoration: none;
+            transition: transform 0.3s, background 0.3s;
+        }
+        .social-btn:hover {
+            transform: translateY(-3px);
+            background: #333;
+        }
+        .social-btn i {
+            margin-right: 8px;
+            font-size: 1.2rem;
+        }
+        .github-stats {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        .github-stats img {
+            border-radius: 8px;
+            max-width: 100%;
+        }
+        footer {
+            text-align: center;
+            padding: 2rem 0;
+            opacity: 0.7;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo%20RT.png?raw=true" alt="Logo ReinierTutoriales" class="logo">
+            <h1>ReinierTutoriales</h1>
+            <p class="tagline">🔧 Un espacio donde la pasión por la tecnología se convierte en acción.</p>
+        </header>
 
+        <section class="section">
+            <h2>🌐 Sobre Mí</h2>
+            <p>¡Hola! Soy <strong>Reinier</strong>, un apasionado por la tecnología, los sistemas operativos y el desarrollo colaborativo. Mi objetivo es compartir conocimiento útil a través de tutoriales y proyectos open-source.</p>
+        </section>
+
+        <section class="section">
+            <h2>🔗 Mis Redes</h2>
+            <div class="social-links">
+                <a href="https://www.reiniertutoriales.com/" class="social-btn" target="_blank">
+                    <i class="fas fa-globe"></i> Sitio Web
+                </a>
+                <a href="https://youtube.com/c/ReinierTutoriales" class="social-btn" style="color: #FF0000;">
+                    <i class="fab fa-youtube"></i> YouTube
+                </a>
+                <a href="https://t.me/ReinierTutoriales" class="social-btn" style="color: var(--accent-blue);">
+                    <i class="fab fa-telegram"></i> Telegram
+                </a>
+                <a href="https://twitter.com/ReinierTutorial" class="social-btn" style="color: #1DA1F2;">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="https://www.instagram.com/reiniertutoriales/" class="social-btn" style="color: var(--accent-red);">
+                    <i class="fab fa-instagram"></i> Instagram
+                </a>
+                <a href="https://discord.gg/pQcCDBMn" class="social-btn" style="color: #7289DA;">
+                    <i class="fab fa-discord"></i> Discord
+                </a>
+                <a href="https://www.patreon.com/ReinierTutoriales" class="social-btn" style="color: #F96854;">
+                    <i class="fab fa-patreon"></i> Patreon
+                </a>
+                <a href="https://www.buymeacoffee.com/reiniertutoriales" class="social-btn" style="color: #FFDD00;">
+                    <i class="fas fa-coffee"></i> Café
+                </a>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>📊 Estadísticas de GitHub</h2>
+            <div class="github-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=1E1E1E&title_color=FFB800&text_color=FFFFFF&icon_color=FFB800&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats">
+                <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=radical&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>🚀 Proyectos Destacados</h2>
+            <ul>
+                <li><a href="https://github.com/ReinierTutoriales/Hackintosh" target="_blank">Hackintosh Guide</a> - Guía completa para crear tu Hackintosh.</li>
+                <li><a href="https://github.com/ReinierTutoriales/Windows-Tips" target="_blank">Windows Optimization</a> - Tips para optimizar Windows.</li>
+                <li><a href="https://github.com/ReinierTutoriales/macOS-Tutorials" target="_blank">macOS Tutorials</a> - Aprovecha al máximo macOS.</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>© 2024 ReinierTutoriales. Hecho con ❤️ y código abierto.</p>
+        </footer>
+    </div>
+</body>
+</html>
