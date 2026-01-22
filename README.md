@@ -133,4 +133,3 @@ Soy **Reinier**. Me enfoco en:
 <div align="center">
 © 2026 <b>ReinierTutoriales</b> | Todos los derechos reservados.
 </div>
-```
