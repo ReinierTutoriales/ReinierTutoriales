@@ -24,9 +24,9 @@
 
 > [!NOTE]
 > **Enfoque Técnico**
-> * **Optimización Real:** Latencia, I/O y estabilidad medible. Cero "tweaks" placebo.
-> * **Reproducibilidad:** Guías validadas paso a paso con rutas de rollback.
-> * **Troubleshooting:** Diagnóstico de causa raíz → Corrección → Verificación.
+> - **Optimización Real:** Latencia, I/O y estabilidad medible. Cero "tweaks" placebo.
+> - **Reproducibilidad:** Guías validadas paso a paso con rutas de rollback.
+> - **Troubleshooting:** Diagnóstico de causa raíz → Corrección → Verificación.
 
 ---
 
@@ -44,13 +44,36 @@
 
 <div align="center">
 
-| **Rendimiento General** | **Racha de Trabajo (Streak)** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true" height="165" alt="Stats" /> | <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="Streak" /> |
+<!-- Nota: GitHub a veces no renderiza bien tablas dentro de <div>. Por eso, las métricas van en grid con HTML. -->
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Rendimiento General</strong><br/><br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true&cache_seconds=21600"
+        height="165"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" valign="top">
+      <strong>Streak</strong><br/><br/>
+      <img
+        src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&cache_seconds=21600"
+        height="165"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8" height="150" alt="Langs" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8&cache_seconds=21600"
+  height="150"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -73,7 +96,7 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://twitter.com/ReinierTutorial">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <br/><br/>
@@ -85,9 +108,10 @@
   <img src="https://img.shields.io/badge/Patreon-Soportar-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 </a>
 <a href="https://www.buymeacoffee.com/reiniertutoriales">
-  <img src="https://img.shields.io/badge/Buy_Coffee-Invítame-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/Buy%20Coffee-Inv%C3%ADtame-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee"/>
 </a>
 
-<br/>
+<br/><br/>
 <p align="center">© 2026 ReinierTutoriales | Todos los derechos reservados.</p>
+
 </div>
