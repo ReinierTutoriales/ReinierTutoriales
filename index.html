@@ -1,162 +1,82 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ReinierTutoriales | Tecnología y Comunidad</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --bg-dark: #121212;
-            --card-dark: #1E1E1E;
-            --text-light: #F5F5F5;
-            --accent-yellow: #FFB800;
-            --accent-blue: #0088CC;
-            --accent-red: #E4405F;
-        }
-        body {
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background-color: var(--bg-dark);
-            color: var(--text-light);
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 2rem;
-        }
-        header {
-            text-align: center;
-            padding: 3rem 0;
-            border-bottom: 1px solid #333;
-        }
-        .logo {
-            width: 150px;
-            border-radius: 50%;
-            border: 3px solid var(--accent-yellow);
-        }
-        h1 {
-            color: var(--accent-yellow);
-            margin: 1rem 0 0.5rem;
-        }
-        .tagline {
-            font-size: 1.2rem;
-            opacity: 0.9;
-        }
-        .section {
-            background: var(--card-dark);
-            padding: 2rem;
-            border-radius: 8px;
-            margin: 2rem 0;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .social-links {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 1rem;
-            justify-content: center;
-        }
-        .social-btn {
-            display: flex;
-            align-items: center;
-            background: #2A2A2A;
-            color: white;
-            padding: 0.8rem 1.5rem;
-            border-radius: 50px;
-            text-decoration: none;
-            transition: transform 0.3s, background 0.3s;
-        }
-        .social-btn:hover {
-            transform: translateY(-3px);
-            background: #333;
-        }
-        .social-btn i {
-            margin-right: 8px;
-            font-size: 1.2rem;
-        }
-        .github-stats {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
-        .github-stats img {
-            border-radius: 8px;
-            max-width: 100%;
-        }
-        footer {
-            text-align: center;
-            padding: 2rem 0;
-            opacity: 0.7;
-            font-size: 0.9rem;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <img src="https://github.com/ReinierTutoriales/ReinierTutoriales/blob/main/imagenes/Logo%20RT.png?raw=true" alt="Logo ReinierTutoriales" class="logo">
-            <h1>ReinierTutoriales</h1>
-            <p class="tagline">🤖 Un espacio donde la pasión por la tecnología se convierte en acción.</p>
-        </header>
+<!-- Header -->
+<div align="center">
 
-        <section class="section">
-            <h2>🌐 Sobre Mí</h2>
-            <p>¡Hola! Soy <strong>Reinier</strong>, un apasionado por la tecnología, los sistemas operativos y el desarrollo colaborativo. Mi objetivo es compartir conocimiento útil a través de tutoriales y proyectos open-source.</p>
-        </section>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png">
+  <img alt="ReinierTutoriales" src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" width="140">
+</picture>
 
-        <section class="section">
-            <h2>🔗 Mis Redes</h2>
-            <div class="social-links">
-                <a href="https://www.reiniertutoriales.com/" class="social-btn" target="_blank">
-                    <i class="fas fa-globe"></i> Sitio Web
-                </a>
-                <a href="https://youtube.com/c/ReinierTutoriales" class="social-btn" style="color: #FF0000;">
-                    <i class="fab fa-youtube"></i> YouTube
-                </a>
-                <a href="https://t.me/ReinierTutoriales" class="social-btn" style="color: var(--accent-blue);">
-                    <i class="fab fa-telegram"></i> Telegram
-                </a>
-                <a href="https://twitter.com/ReinierTutorial" class="social-btn" style="color: #1DA1F2;">
-                    <i class="fab fa-twitter"></i> Twitter
-                </a>
-                <a href="https://www.instagram.com/reiniertutoriales/" class="social-btn" style="color: var(--accent-red);">
-                    <i class="fab fa-instagram"></i> Instagram
-                </a>
-                <a href="https://discord.gg/Z63x4k4Kmj" class="social-btn" style="color: #7289DA;">
-                    <i class="fab fa-discord"></i> Discord
-                </a>
-                <a href="https://www.patreon.com/ReinierTutoriales" class="social-btn" style="color: #F96854;">
-                    <i class="fab fa-patreon"></i> Patreon
-                </a>
-                <a href="https://www.buymeacoffee.com/reiniertutoriales" class="social-btn" style="color: #FFDD00;">
-                    <i class="fas fa-coffee"></i> Café
-                </a>
-            </div>
-        </section>
+<h1>ReinierTutoriales</h1>
 
-        <section class="section">
-            <h2>📊 Estadísticas de GitHub</h2>
-            <div class="github-stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&bg_color=1E1E1E&title_color=FFB800&text_color=FFFFFF&icon_color=FFB800&hide_title=true&count_private=true&hide=prs" alt="GitHub Stats">
-                <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=radical&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-            </div>
-        </section>
+<strong>Tecnología, sistemas operativos y proyectos open-source.</strong><br/>
+Guías claras, optimización real y comunidad.
 
-        <section class="section">
-            <h2>🚀 Proyectos Destacados</h2>
-            <ul>
-                <li><a href="https://github.com/ReinierTutoriales/Hackintosh" target="_blank">Hackintosh Guide</a> - Guía completa para crear tu Hackintosh.</li>
-                <li><a href="https://github.com/ReinierTutoriales/Windows-Tips" target="_blank">Windows Optimization</a> - Tips para optimizar Windows.</li>
-                <li><a href="https://github.com/ReinierTutoriales/macOS-Tutorials" target="_blank">macOS Tutorials</a> - Aprovecha al máximo macOS.</li>
-            </ul>
-        </section>
+<br/>
 
-        <footer>
-            <p>© 2024 ReinierTutoriales. Hecho con ❤️ y código abierto.</p>
-        </footer>
-    </div>
-</body>
-</html>
+<!-- Badges (Social) -->
+<a href="https://www.reiniertutoriales.com/">
+  <img alt="Sitio web" src="https://img.shields.io/badge/Web-reiniertutoriales.com-111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://youtube.com/c/ReinierTutoriales">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-ReinierTutoriales-111?style=for-the-badge&logo=youtube&logoColor=red">
+</a>
+<a href="https://t.me/ReinierTutoriales">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Canal-111?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
+</a>
+<a href="https://twitter.com/ReinierTutorial">
+  <img alt="X / Twitter" src="https://img.shields.io/badge/X-@ReinierTutorial-111?style=for-the-badge&logo=x&logoColor=white">
+</a>
+<a href="https://www.instagram.com/reiniertutoriales/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@reiniertutoriales-111?style=for-the-badge&logo=instagram&logoColor=E4405F">
+</a>
+<a href="https://discord.gg/Z63x4k4Kmj">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-Comunidad-111?style=for-the-badge&logo=discord&logoColor=7289DA">
+</a>
+
+<br/><br/>
+
+<a href="https://www.patreon.com/ReinierTutoriales">
+  <img alt="Patreon" src="https://img.shields.io/badge/Patreon-Apoyar-111?style=for-the-badge&logo=patreon&logoColor=F96854">
+</a>
+<a href="https://www.buymeacoffee.com/reiniertutoriales">
+  <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Caf%C3%A9-BuyMeACoffee-111?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00">
+</a>
+
+</div>
+
+---
+
+## Sobre mí
+Soy **Reinier**. Me enfoco en:
+- Optimización de Windows y troubleshooting real
+- Hackintosh/macOS (guías prácticas)
+- Automatización, herramientas y documentación clara
+- Comunidad: recursos y soporte continuo
+
+---
+
+## Proyectos destacados
+- **Hackintosh Guide**: https://github.com/ReinierTutoriales/Hackintosh  
+- **Windows Optimization**: https://github.com/ReinierTutoriales/Windows-Tips  
+- **macOS Tutorials**: https://github.com/ReinierTutoriales/macOS-Tutorials  
+
+---
+
+## GitHub en números
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent" height="150">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=ReinierTutoriales&hide_border=true&theme=transparent" height="150">
+</div>
+
+<!-- Opcional: actividad (solo si quieres más impacto visual)
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ReinierTutoriales&theme=github-compact">
+</div>
+-->
+
+---
+
+## Contacto
+- Web: https://www.reiniertutoriales.com/
+- Telegram: https://t.me/ReinierTutoriales
+- Discord: https://discord.gg/Z63x4k4Kmj
