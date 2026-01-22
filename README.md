@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/PayPal-Donar-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
 <a href="https://www.patreon.com/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/Patreon-Soportar-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  <img src="https://img.shields.io/badge/Patreon-Apoyar-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 </a>
 <a href="https://www.buymeacoffee.com/reiniertutoriales">
   <img src="https://img.shields.io/badge/Caf%C3%A9-Inv%C3%ADtame%20un%20caf%C3%A9-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Invítame un café"/>
