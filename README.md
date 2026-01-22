@@ -82,19 +82,19 @@
 <div align="center">
 
 <a href="https://www.reiniertutoriales.com/">
-  <img src="https://img.shields.io/badge/Website-181818?style=flat-square&logo=google-chrome&logoColor=white" alt="Web"/>
+  <img src="https://img.shields.io/badge/Website-181818?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/>
 </a>
 <a href="https://youtube.com/c/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://t.me/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://discord.gg/Z63x4k4Kmj">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://twitter.com/ReinierTutorial">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <br/><br/>
@@ -106,8 +106,11 @@
   <img src="https://img.shields.io/badge/Patreon-Soportar-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
 </a>
 <a href="https://www.buymeacoffee.com/reiniertutoriales">
-  <img src="https://img.shields.io/badge/Buy%20Coffee-Inv%C3%ADtame-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Coffee"/>
+  <img src="https://img.shields.io/badge/Caf%C3%A9-Inv%C3%ADtame%20un%20caf%C3%A9-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Invítame un café"/>
 </a>
+
+</div>
+
 
 <br/><br/>
 <p align="center">© 2026 ReinierTutoriales | Todos los derechos reservados.</p>
