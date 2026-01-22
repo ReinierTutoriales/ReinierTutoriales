@@ -54,10 +54,11 @@
         alt="GitHub Stats"
       />
     </td>
+
     <td align="center" valign="top" width="50%">
       <strong>Streak</strong><br/><br/>
       <img
-        src="https://streak-stats.vercel.app?user=ReinierTutoriales&theme=transparent&hide_border=true&cache_seconds=21600&v=2"
+        src="https://streak-stats.vercel.app?user=ReinierTutoriales&background=transparent&hide_border=true&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&sideNums=8b949e&currStreakNum=8b949e&cache_seconds=21600&v=4"
         height="165"
         alt="GitHub Streak"
       />
