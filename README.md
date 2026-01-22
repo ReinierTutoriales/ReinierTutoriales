@@ -44,11 +44,12 @@
 
 <div align="center">
 
-<!-- Nota: GitHub a veces no renderiza bien tablas dentro de <div>. Por eso, las métricas van en grid con HTML. -->
+<!-- FIX: no uses tabla Markdown dentro de <div>. GitHub la rompe y deja "Streak" huérfano.
+     Solución: tabla 100% HTML + cache_seconds para estabilidad. -->
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <strong>Rendimiento General</strong><br/><br/>
       <img
         src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true&cache_seconds=21600"
@@ -56,7 +57,7 @@
         alt="GitHub Stats"
       />
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="50%">
       <strong>Streak</strong><br/><br/>
       <img
         src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&cache_seconds=21600"
@@ -113,5 +114,4 @@
 
 <br/><br/>
 <p align="center">© 2026 ReinierTutoriales | Todos los derechos reservados.</p>
-
 </div>
