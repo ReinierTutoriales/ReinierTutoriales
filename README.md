@@ -1,7 +1,9 @@
 <div align="center">
+  <br/>
   <a href="https://www.reiniertutoriales.com/">
-    <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales" width="160" />
+    <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales Logo" width="200" />
   </a>
+  <br/><br/>
 
   <h1>ReinierTutoriales</h1>
   
@@ -42,11 +44,13 @@
 
 <div align="center">
 
-| **Estadísticas** | **Lenguajes** |
+| **Rendimiento General** | **Racha de Trabajo (Streak)** |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true" height="150" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=transparent&hide_title=true" height="150" alt="Langs" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true" height="165" alt="Stats" /> | <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="Streak" /> |
 
-<img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8" height="150" alt="Langs" />
 
 </div>
 
