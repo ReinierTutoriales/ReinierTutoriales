@@ -44,9 +44,6 @@
 
 <div align="center">
 
-<!-- FIX: no uses tabla Markdown dentro de <div>. GitHub la rompe y deja "Streak" huérfano.
-     Solución: tabla 100% HTML + cache_seconds para estabilidad. -->
-
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
@@ -60,7 +57,7 @@
     <td align="center" valign="top" width="50%">
       <strong>Streak</strong><br/><br/>
       <img
-        src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=transparent&hide_border=true&cache_seconds=21600"
+        src="https://streak-stats.vercel.app?user=ReinierTutoriales&theme=transparent&hide_border=true&cache_seconds=21600&v=2"
         height="165"
         alt="GitHub Streak"
       />
