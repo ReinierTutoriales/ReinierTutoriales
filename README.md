@@ -1,17 +1,12 @@
 <div align="center">
   <br/>
   <a href="https://www.reiniertutoriales.com/">
-    <img
-      src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png"
-      alt="ReinierTutoriales Logo"
-      width="200"
-    />
+    <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales Logo" width="200" />
   </a>
-
   <br/><br/>
 
   <h1>ReinierTutoriales</h1>
-
+  
   <p>
     <strong>Sistemas, Optimización y Open Source.</strong><br/>
     Tecnología aplicada a resultados reales. Sin humo, solo datos.
@@ -21,7 +16,7 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
     <img src="https://img.shields.io/badge/Hackintosh-2D3436?style=for-the-badge&logo=apple&logoColor=white" alt="Hackintosh"/>
-    <img src="https://img.shields.io/badge/Automatización-181717?style=for-the-badge&logo=github&logoColor=white" alt="Automatización"/>
+    <img src="https://img.shields.io/badge/Automatización-181717?style=for-the-badge&logo=github&logoColor=white" alt="Automation"/>
   </p>
 </div>
 
@@ -29,9 +24,9 @@
 
 > [!NOTE]
 > **Enfoque Técnico**
-> - **Optimización real:** latencia, I/O y estabilidad medible. Cero “tweaks” placebo.
-> - **Reproducibilidad:** guías paso a paso con criterios claros y rutas de rollback.
-> - **Troubleshooting:** causa raíz → corrección → verificación.
+> - **Optimización Real:** Latencia, I/O y estabilidad medible. Cero "tweaks" placebo.
+> - **Reproducibilidad:** Guías validadas paso a paso con rutas de rollback.
+> - **Troubleshooting:** Diagnóstico de causa raíz → Corrección → Verificación.
 
 ---
 
@@ -40,37 +35,29 @@
 | Repositorio | Descripción | Enfoque |
 | :--- | :--- | :--- |
 | [** Hackintosh Guide**](https://github.com/ReinierTutoriales/Hackintosh) | Guía integral para hardware no nativo en macOS. | `OpenCore` `Kexts` |
-| [**🚀 Windows Tips**](https://github.com/ReinierTutoriales/Windows-Tips) | Optimización, debloating seguro y scripts prácticos. | `PowerShell` `Registry` |
-| [**📘 macOS Tutorials**](https://github.com/ReinierTutoriales/macOS-Tutorials) | Soluciones técnicas y documentación para macOS. | `Shell` `Docs` |
+| [**🚀 Windows Tips**](https://github.com/ReinierTutoriales/Windows-Tips) | Scripts de optimización y debloating seguro. | `PowerShell` `Registry` |
+| [**📘 macOS Tutorials**](https://github.com/ReinierTutoriales/macOS-Tutorials) | Documentación técnica y soluciones para macOS. | `Shell` `Docs` |
 
 ---
 
-## 📊 Métricas de Actividad (100% estable)
-
-> **IMPORTANTE (Streak):** Para evitar timeouts/rate-limits de servicios públicos, el Streak debe estar **auto-hosted**.
->
-> 1) Haz fork de `github-readme-streak-stats` y despliega en Vercel.  
-> 2) Reemplaza `TU_STREAK_URL_VERCEL` por tu dominio (ej: `https://rt-streak.vercel.app`).  
->
-> No necesitas cambiar nada más del archivo.
+## 📊 Métricas de Actividad
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <strong>GitHub Stats</strong><br/><br/>
+      <strong>Rendimiento General</strong><br/><br/>
       <img
         src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true&cache_seconds=21600"
         height="165"
         alt="GitHub Stats"
       />
     </td>
-
     <td align="center" valign="top" width="50%">
-      <strong>GitHub Streak</strong><br/><br/>
+      <strong>Streak</strong><br/><br/>
       <img
-        src="TU_STREAK_URL_VERCEL?user=ReinierTutoriales&background=transparent&hide_border=true&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=21600"
+        src="https://streak-stats.vercel.app?user=ReinierTutoriales&background=transparent&hide_border=true&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=21600&v=3"
         height="165"
         alt="GitHub Streak"
       />
@@ -123,6 +110,5 @@
 </a>
 
 <br/><br/>
-
 <p align="center">© 2026 ReinierTutoriales | Todos los derechos reservados.</p>
 </div>
