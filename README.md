@@ -1,75 +1,72 @@
 <div align="center">
-  <br/>
-  <a href="https://www.reiniertutoriales.com/">
-    <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales Logo" width="200" />
-  </a>
-  <br/><br/>
 
-  <h1>ReinierTutoriales</h1>
-  
-  <p>
-    <strong>Sistemas, Optimización y Open Source.</strong><br/>
-    Tecnología aplicada a resultados reales. Sin humo, solo datos.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-    <img src="https://img.shields.io/badge/Hackintosh-2D3436?style=for-the-badge&logo=apple&logoColor=white" alt="Hackintosh"/>
-    <img src="https://img.shields.io/badge/Automatización-181717?style=for-the-badge&logo=github&logoColor=white" alt="Automation"/>
-  </p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png">
+  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales" width="120"/>
+</picture>
 
 <br/>
 
-> [!NOTE]
-> **Enfoque Técnico**
-> - **Optimización Real:** Latencia, I/O y estabilidad medible. Cero "tweaks" placebo.
-> - **Reproducibilidad:** Guías validadas paso a paso con rutas de rollback.
-> - **Troubleshooting:** Diagnóstico de causa raíz → Corrección → Verificación.
+# Reinier Tutoriales
+
+**`Sistemas · Optimización · Open Source`**
+
+*Tecnología aplicada a resultados reales. Sin humo, solo datos.*
+
+<br/>
+
+[![Website](https://img.shields.io/badge/reiniertutoriales.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.reiniertutoriales.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ReinierTutoriales)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ReinierTutoriales)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z63x4k4Kmj)
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ReinierTutorial)
+
+</div>
 
 ---
 
-## 🛠️ Proyectos Principales
+## Sobre este perfil
 
-| Repositorio | Descripción | Enfoque |
-| :--- | :--- | :--- |
-| [** Hackintosh Guide**](https://github.com/ReinierTutoriales/Hackintosh) | Guía integral para hardware no nativo en macOS. | `OpenCore` `Kexts` |
-| [**🚀 Windows Tips**](https://github.com/ReinierTutoriales/Windows-Tips) | Scripts de optimización y debloating seguro. | `PowerShell` `Registry` |
-| [**📘 macOS Tutorials**](https://github.com/ReinierTutoriales/macOS-Tutorials) | Documentación técnica y soluciones para macOS. | `Shell` `Docs` |
+Creo documentación técnica en español sobre macOS, Hackintosh y optimización de sistemas. El objetivo es siempre el mismo: diagnóstico de causa raíz, corrección verificable, sin tweaks placebo.
+
+- 🖥️ Hackintosh con OpenCore — guías reproducibles paso a paso
+- 🍎 macOS — soluciones, scripts y documentación técnica
+- 🪟 Windows — debloating seguro, optimización medible con PowerShell
+- 🔁 Todo con rutas de rollback documentadas
 
 ---
 
-## 📊 Métricas de Actividad
+## 🛠️ Proyectos
+
+| Repositorio | Descripción | Stack |
+|:---|:---|:---|
+| [🍎 Hackintosh Guide](https://github.com/ReinierTutoriales/Hackintosh) | Guía integral para instalar macOS en hardware no nativo | `OpenCore` `Kexts` `ACPI` |
+| [🪟 Windows Tips](https://github.com/ReinierTutoriales/Windows-Tips) | Scripts de optimización y debloating seguro para Windows 10/11 | `PowerShell` `Registry` `DISM` |
+| [📘 macOS Tutorials](https://github.com/ReinierTutoriales/macOS-Tutorials) | Documentación técnica, fixes y guías para macOS | `Shell` `Docs` `Troubleshooting` |
+
+---
+
+## 📊 Estadísticas
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <strong>Rendimiento General</strong><br/><br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=transparent&hide_border=true&cache_seconds=21600"
-        height="165"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <strong>Streak</strong><br/><br/>
-      <img
-        src="https://streak-stats.vercel.app?user=ReinierTutoriales&background=transparent&hide_border=true&border=transparent&stroke=8b949e&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=21600&v=3"
-        height="165"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=github_dark&hide_border=true&cache_seconds=21600"
+  height="160"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://streak-stats.vercel.app?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true&cache_seconds=21600"
+  height="160"
+  alt="GitHub Streak"
+/>
 
-<br/>
+<br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8&cache_seconds=21600"
-  height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=github_dark&hide_title=true&langs_count=8&cache_seconds=21600"
+  height="130"
   alt="Top Languages"
 />
 
@@ -77,41 +74,20 @@
 
 ---
 
-## 🌐 Conecta y Colabora
+## 🌐 Comunidad y soporte
 
 <div align="center">
 
-<a href="https://www.reiniertutoriales.com/">
-  <img src="https://img.shields.io/badge/Website-181818?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/>
-</a>
-<a href="https://youtube.com/c/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://t.me/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="https://discord.gg/Z63x4k4Kmj">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://twitter.com/ReinierTutorial">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+Si el contenido te ha sido útil, puedes apoyar el proyecto:
 
-<br/><br/>
-
-<a href="https://www.paypal.com/paypalme/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/PayPal-Donar-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</a>
-<a href="https://www.patreon.com/ReinierTutoriales">
-  <img src="https://img.shields.io/badge/Patreon-Apoyar-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-</a>
-<a href="https://www.buymeacoffee.com/reiniertutoriales">
-  <img src="https://img.shields.io/badge/Caf%C3%A9-Inv%C3%ADtame%20un%20caf%C3%A9-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Invítame un café"/>
-</a>
+[![PayPal](https://img.shields.io/badge/PayPal-Donar-003087?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ReinierTutoriales)
+[![Patreon](https://img.shields.io/badge/Patreon-Apoyar-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/ReinierTutoriales)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reiniertutoriales)
 
 </div>
 
+---
 
-<br/><br/>
-<p align="center">© 2026 ReinierTutoriales | Todos los derechos reservados.</p>
+<div align="center">
+<sub>© 2026 ReinierTutoriales · Todos los derechos reservados</sub>
 </div>
