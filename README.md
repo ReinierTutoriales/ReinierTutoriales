@@ -65,7 +65,7 @@ Creo documentación técnica en español sobre macOS, Hackintosh y optimización
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=github_dark&hide_title=true&langs_count=8&cache_seconds=21600"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=github_dark&hide_title=true&langs_count=6&cache_seconds=21600&hide=html,css,batchfile,inno+setup,nsis,rich+text+format,digital+command+language,makefile,mermaid,sed,vim+script,awk"
   height="130"
   alt="Top Languages"
 />
