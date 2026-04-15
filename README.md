@@ -2,9 +2,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png">
-  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales" width="120"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png">
+  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales" width="110"/>
 </picture>
 
+<br/>
 <br/>
 
 # Reinier Tutoriales
@@ -15,11 +17,11 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/reiniertutoriales.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.reiniertutoriales.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ReinierTutoriales)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ReinierTutoriales)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z63x4k4Kmj)
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ReinierTutorial)
+[![Website](https://img.shields.io/badge/reiniertutoriales.com-0d1117?style=flat-square&logo=google-chrome&logoColor=58a6ff&labelColor=0d1117)](https://www.reiniertutoriales.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=0d1117)](https://youtube.com/c/ReinierTutoriales)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=26A5E4&labelColor=0d1117)](https://t.me/ReinierTutoriales)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=5865F2&labelColor=0d1117)](https://discord.gg/Z63x4k4Kmj)
+[![X](https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=ffffff&labelColor=0d1117)](https://twitter.com/ReinierTutorial)
 
 </div>
 
@@ -29,10 +31,11 @@
 
 Creo documentación técnica en español sobre macOS, Hackintosh y optimización de sistemas. El objetivo es siempre el mismo: diagnóstico de causa raíz, corrección verificable, sin tweaks placebo.
 
-- 🖥️ Hackintosh con OpenCore — guías reproducibles paso a paso
-- 🍎 macOS — soluciones, scripts y documentación técnica
-- 🪟 Windows — debloating seguro, optimización medible con PowerShell
-- 🔁 Todo con rutas de rollback documentadas
+- 🖥️&nbsp; **Hackintosh con OpenCore** — guías reproducibles paso a paso
+- 🍎&nbsp; **macOS** — soluciones, scripts y documentación técnica
+- 🪟&nbsp; **Windows** — debloating seguro, optimización medible con PowerShell
+- 🔒&nbsp; **Privacidad & Self-hosting** — AdGuard, WireGuard, Docker, Unbound
+- 🔁&nbsp; Todo con rutas de rollback documentadas
 
 ---
 
@@ -51,22 +54,19 @@ Creo documentación técnica en español sobre macOS, Hackintosh y optimización
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=github_dark&hide_border=true&cache_seconds=21600"
-  height="160"
+  src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/overview.svg"
   alt="GitHub Stats"
 />
-&nbsp;&nbsp;
+&nbsp;
 <img
-  src="https://streak-stats.vercel.app?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true&cache_seconds=21600"
-  height="160"
+  src="https://github-readme-streak-stats.herokuapp.com?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
   alt="GitHub Streak"
 />
 
-<br/><br/>
+<br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&hide_border=true&theme=github_dark&hide_title=true&langs_count=6&cache_seconds=21600&hide=html,css,batchfile,inno+setup,nsis,rich+text+format,digital+command+language,makefile,mermaid,sed,vim+script,awk"
-  height="130"
+  src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/languages.svg"
   alt="Top Languages"
 />
 
@@ -80,6 +80,8 @@ Creo documentación técnica en español sobre macOS, Hackintosh y optimización
 
 Si el contenido te ha sido útil, puedes apoyar el proyecto:
 
+<br/>
+
 [![PayPal](https://img.shields.io/badge/PayPal-Donar-003087?style=flat-square&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ReinierTutoriales)
 [![Patreon](https://img.shields.io/badge/Patreon-Apoyar-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/ReinierTutoriales)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reiniertutoriales)
@@ -89,5 +91,5 @@ Si el contenido te ha sido útil, puedes apoyar el proyecto:
 ---
 
 <div align="center">
-<sub>© 2026 ReinierTutoriales · Todos los derechos reservados</sub>
+<sub>© 2026 ReinierTutoriales &nbsp;·&nbsp; Todos los derechos reservados</sub>
 </div>
