@@ -149,11 +149,11 @@ Prioridad absoluta: configuraciones verificables, OpenCore limpio y rutas de rol
 ### 📊 Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/overview.svg" alt="GitHub Stats" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/languages.svg" alt="Top Languages" width="100%"/>
 </p>
 
 ---
