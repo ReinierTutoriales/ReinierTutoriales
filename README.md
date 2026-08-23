@@ -149,12 +149,12 @@ Prioridad absoluta: configuraciones verificables, OpenCore limpio y rutas de rol
 ### 📊 Métricas de GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/overview.svg" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/languages.svg" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 </p>
 
 ---
