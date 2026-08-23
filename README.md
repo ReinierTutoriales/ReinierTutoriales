@@ -146,15 +146,16 @@ Prioridad absoluta: configuraciones verificables, OpenCore limpio y rutas de rol
 
 ---
 
-### 📊 Métricas de GitHub
+### 📊 Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" height="160" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=ReinierTutoriales&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="160" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReinierTutoriales&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="160" alt="Top Languages"/>
 </p>
 
 ---
