@@ -1,82 +1,402 @@
-<!-- Header -->
-<div align="center">
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ReinierTutoriales — Hackintosh · macOS · Sistemas</title>
+  <meta name="description" content="Guías reproducibles de Hackintosh, macOS y optimización de sistemas. OpenCore limpio, causa raíz y sin tweaks placebo." />
+  <meta name="theme-color" content="#0d1117" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0d1117;
+      --card: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --red: #f85149;
+      --green: #3fb950;
+      --purple: #a371f7;
+      --orange: #d29922;
+    }
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png">
-  <img alt="ReinierTutoriales" src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" width="140">
-</picture>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
 
-<h1>ReinierTutoriales</h1>
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
 
-<strong>Tecnología, sistemas operativos y proyectos open-source.</strong><br/>
-Guías claras, optimización real y comunidad.
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2.5rem 1.25rem 4rem;
+    }
 
-<br/>
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
 
-<!-- Badges (Social) -->
-<a href="https://www.reiniertutoriales.com/">
-  <img alt="Sitio web" src="https://img.shields.io/badge/Web-reiniertutoriales.com-111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="https://youtube.com/c/ReinierTutoriales">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-ReinierTutoriales-111?style=for-the-badge&logo=youtube&logoColor=red">
-</a>
-<a href="https://t.me/ReinierTutoriales">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Canal-111?style=for-the-badge&logo=telegram&logoColor=2CA5E0">
-</a>
-<a href="https://twitter.com/ReinierTutorial">
-  <img alt="X / Twitter" src="https://img.shields.io/badge/X-@ReinierTutorial-111?style=for-the-badge&logo=x&logoColor=white">
-</a>
-<a href="https://www.instagram.com/reiniertutoriales/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@reiniertutoriales-111?style=for-the-badge&logo=instagram&logoColor=E4405F">
-</a>
-<a href="https://discord.gg/Z63x4k4Kmj">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-Comunidad-111?style=for-the-badge&logo=discord&logoColor=7289DA">
-</a>
+    .logo {
+      width: 110px;
+      height: auto;
+      border-radius: 16px;
+      margin-bottom: 1.25rem;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
 
-<br/><br/>
+    h1 {
+      font-size: 2.1rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.4rem;
+    }
 
-<a href="https://www.patreon.com/ReinierTutoriales">
-  <img alt="Patreon" src="https://img.shields.io/badge/Patreon-Apoyar-111?style=for-the-badge&logo=patreon&logoColor=F96854">
-</a>
-<a href="https://www.buymeacoffee.com/reiniertutoriales">
-  <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Caf%C3%A9-BuyMeACoffee-111?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00">
-</a>
+    .tagline {
+      color: var(--muted);
+      font-size: 1.05rem;
+      margin-bottom: 1.5rem;
+    }
 
-</div>
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      margin-bottom: 1.75rem;
+    }
 
----
+    .badges a img {
+      height: 28px;
+      transition: transform 0.15s ease;
+    }
 
-## Sobre mí
-Soy **Reinier**. Me enfoco en:
-- Optimización de Windows y troubleshooting real
-- Hackintosh/macOS (guías prácticas)
-- Automatización, herramientas y documentación clara
-- Comunidad: recursos y soporte continuo
+    .badges a:hover img {
+      transform: translateY(-2px);
+    }
 
----
+    section {
+      margin-bottom: 2.75rem;
+    }
 
-## Proyectos destacados
-- **Hackintosh Guide**: https://github.com/ReinierTutoriales/Hackintosh  
-- **Windows Optimization**: https://github.com/ReinierTutoriales/Windows-Tips  
-- **macOS Tutorials**: https://github.com/ReinierTutoriales/macOS-Tutorials  
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
 
----
+    .focus {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      color: var(--muted);
+      font-size: 0.98rem;
+    }
 
-## GitHub en números
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ReinierTutoriales&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent" height="150">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=ReinierTutoriales&hide_border=true&theme=transparent" height="150">
-</div>
+    .focus strong {
+      color: var(--text);
+    }
 
-<!-- Opcional: actividad (solo si quieres más impacto visual)
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ReinierTutoriales&theme=github-compact">
-</div>
--->
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+    }
 
----
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      transition: border-color 0.2s ease, transform 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+    }
 
-## Contacto
-- Web: https://www.reiniertutoriales.com/
-- Telegram: https://t.me/ReinierTutoriales
-- Discord: https://discord.gg/Z63x4k4Kmj
+    .card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .card h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .card h3 a {
+      color: var(--text);
+      text-decoration: none;
+    }
+
+    .card h3 a:hover {
+      color: var(--accent);
+    }
+
+    .card p {
+      color: var(--muted);
+      font-size: 0.9rem;
+      flex-grow: 1;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .tag {
+      font-size: 0.72rem;
+      font-weight: 500;
+      padding: 0.2rem 0.5rem;
+      border-radius: 999px;
+      background: #21262d;
+      color: var(--muted);
+      border: 1px solid var(--border);
+    }
+
+    .tag.amd { background: rgba(237,28,36,0.15); color: #ff7b72; border-color: rgba(237,28,36,0.3); }
+    .tag.intel { background: rgba(0,113,197,0.15); color: #79c0ff; border-color: rgba(0,113,197,0.3); }
+    .tag.apple { background: rgba(255,255,255,0.08); color: #e6edf3; border-color: rgba(255,255,255,0.15); }
+    .tag.wifi { background: rgba(29,161,242,0.15); color: #79c0ff; border-color: rgba(29,161,242,0.3); }
+
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+    }
+
+    .stats img {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+
+    .support {
+      text-align: center;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.75rem;
+    }
+
+    .support p {
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+      font-size: 0.95rem;
+    }
+
+    .support-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      justify-content: center;
+    }
+
+    footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.85rem;
+      margin-top: 3rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 1.7rem; }
+      .container { padding: 1.75rem 1rem 3rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img class="logo" src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/imagenes/Logo%20RT.png" alt="ReinierTutoriales" />
+      <h1>ReinierTutoriales</h1>
+      <p class="tagline">Hackintosh · macOS · Sistemas · Optimización</p>
+
+      <div class="badges">
+        <a href="https://www.reiniertutoriales.com/"><img src="https://img.shields.io/badge/Web-reiniertutoriales.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Web" /></a>
+        <a href="https://youtube.com/c/ReinierTutoriales"><img src="https://img.shields.io/badge/YouTube-ReinierTutoriales-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+        <a href="https://t.me/ReinierTutoriales"><img src="https://img.shields.io/badge/Telegram-Canal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+        <a href="https://discord.gg/Z63x4k4Kmj"><img src="https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="https://twitter.com/ReinierTutorial"><img src="https://img.shields.io/badge/X-@ReinierTutorial-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+      </div>
+    </header>
+
+    <section>
+      <h2>🎯 Enfoque</h2>
+      <div class="focus">
+        Documentación técnica en español centrada en <strong>macOS / Hackintosh</strong> y optimización real de sistemas.<br/>
+        Prioridad: configuraciones verificables, OpenCore limpio y rutas de rollback documentadas. Sin tweaks placebo.
+      </div>
+    </section>
+
+    <section>
+      <h2>🖥️ EFI Hackintosh</h2>
+      <div class="grid">
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Hackintosh-Gigabyte-X570-AORUS-ELITE">Gigabyte X570 AORUS ELITE</a></h3>
+          <p>EFI OpenCore para AMD Ryzen + X570. Una de las configuraciones más usadas del canal.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag amd">AMD</span>
+            <span class="tag">Ryzen</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Ryzentosh-GenMachine-Rem5000-Ryzen-7-5800U">GenMachine Rem5000 · 5800U</a></h3>
+          <p>Ryzentosh para APU AMD Ryzen 7 5800U. Configuración específica para este hardware.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag amd">APU</span>
+            <span class="tag">5800U</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/ASUS-Z77-P8Z77V-LX">ASUS Z77 P8Z77-V LX</a></h3>
+          <p>EFI legacy Intel Z77. Configuración estable y bien documentada.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag intel">Intel</span>
+            <span class="tag">Z77</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Hackintosh-Dell-OptiPlex-5050">Dell OptiPlex 5050</a></h3>
+          <p>EFI para el clásico OptiPlex 5050. Ideal para equipos de oficina reconvertidos.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag">Dell</span>
+            <span class="tag">OptiPlex</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/EFI-Ryzentosh">EFI Ryzentosh (base)</a></h3>
+          <p>Base genérica AMD Ryzen para iniciar configuraciones Ryzentosh.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag amd">AMD</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/EFI-Ryzentosh-APU-AMD">EFI Ryzentosh APU AMD</a></h3>
+          <p>Variante orientada a APUs AMD con gráficos integrados.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag amd">APU</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>📡 Utilidades WiFi / Bluetooth</h2>
+      <div class="grid">
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Broadcom-WiFi-Bluetooth-macOS-Sequoia">Broadcom WiFi + Bluetooth</a></h3>
+          <p>Soporte para tarjetas Broadcom en macOS Sequoia y versiones cercanas.</p>
+          <div class="tags">
+            <span class="tag wifi">WiFi</span>
+            <span class="tag">Bluetooth</span>
+            <span class="tag apple">Sequoia</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Intel-AX210-macOS-Sonoma-Sequoia-Tahoe">Intel AX210</a></h3>
+          <p>Drivers y configuración para Intel AX210 en Sonoma / Sequoia / Tahoe.</p>
+          <div class="tags">
+            <span class="tag intel">Intel</span>
+            <span class="tag wifi">AX210</span>
+            <span class="tag apple">macOS</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>🛠️ Herramientas y documentación</h2>
+      <div class="grid">
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/OpenCore-NO-ACPI">OpenCore NO ACPI</a></h3>
+          <p>Documentación en español sobre el uso de OpenCore sin tablas ACPI personalizadas.</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag">ACPI</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/Mapear-puertos-USB-para-macOS-con-USBToolBox-desde-Windows">USBToolBox desde Windows</a></h3>
+          <p>Guía completa para mapear puertos USB correctamente con USBToolBox.</p>
+          <div class="tags">
+            <span class="tag">USB</span>
+            <span class="tag">Windows</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://github.com/ReinierTutoriales/EFI-ASUS-ROG-Strix-B760-F-Gaming">ASUS ROG Strix B760-F</a></h3>
+          <p>EFI para placa Intel B760 de gama alta (ROG Strix).</p>
+          <div class="tags">
+            <span class="tag apple">OpenCore</span>
+            <span class="tag intel">Intel</span>
+            <span class="tag">B760</span>
+          </div>
+        </article>
+
+        <article class="card">
+          <h3><a href="https://www.reiniertutoriales.com/">reiniertutoriales.com</a></h3>
+          <p>Foro + base de conocimiento en español (XenForo).</p>
+          <div class="tags">
+            <span class="tag">XenForo</span>
+            <span class="tag">Comunidad</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>📊 Métricas</h2>
+      <div class="stats">
+        <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/overview.svg" alt="GitHub Stats" width="420" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReinierTutoriales&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="420" />
+      </div>
+      <div class="stats" style="margin-top: 1rem;">
+        <img src="https://raw.githubusercontent.com/ReinierTutoriales/ReinierTutoriales/main/generated/languages.svg" alt="Top Languages" width="100%" style="max-width: 860px;" />
+      </div>
+    </section>
+
+    <section class="support">
+      <h2 style="justify-content: center;">☕ Apoya el proyecto</h2>
+      <p>Si el contenido te ha sido útil, puedes apoyar el trabajo directamente.</p>
+      <div class="support-links">
+        <a href="https://www.paypal.com/paypalme/ReinierTutoriales"><img src="https://img.shields.io/badge/PayPal-0070E0?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a>
+        <a href="https://www.patreon.com/ReinierTutoriales"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" /></a>
+        <a href="https://www.buymeacoffee.com/reiniertutoriales"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+      </div>
+    </section>
+
+    <footer>
+      © 2026 <strong>ReinierTutoriales</strong> · Documentación técnica, no promesas
+    </footer>
+  </div>
+</body>
+</html>
